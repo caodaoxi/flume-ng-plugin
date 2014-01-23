@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jan 23 16:04:31 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=tailSource.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|flume-ng-plugins>~com/~cn/~flume/~kestrel/;<po|flume-ng-plugins>~com/~cn/~flume/~interceptor/;<po|flume-ng-plugins>~com/~cn/~flume/~fileroll/;<po|flume-ng-plugins>~format.properties;<jar|commons-lang-2.5.jar>;<jar|flume-ng-configuration-1.4.0.jar>;<jar|flume-ng-core-1.4.0.jar>;<jar|flume-ng-sdk-1.4.0.jar>;<jar|guava-10.0.1.jar>;<jar|log4j-over-slf4j-1.6.6.jar>;<jar|logback-classic-1.0.6.jar>;<jar|logback-core-1.0.6.jar>;<jar|slf4j-api-1.6.5.jar>;<jar|apache-jakarta-oro.jar>;<jar|httpclient-4.1.1.jar>;<jar|httpcore-4.1.jar>;<jar|libthrift7-0.7.0.jar>
+includes=
